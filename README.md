@@ -70,7 +70,7 @@ Carregar o seu proprio texto para analise.
 
 > Unfortunately, our experience at the SoSoHotel was disappointing. The front desk staff were unprofessional and seemed uninterested in helping us. Our room was not as clean as expected, and the mattress was very hard and uncomfortable, making for a poor night's sleep. We also found the Wi-Fi to be unreliable, which was a major inconvenience for our business trip.
 
-Resultado conforme esperado (negativo):
+Resultado conforme esperado (negativo). Portal assinala as palavras chaves usadas na deteção do sentimento, conforme pode se ver nas imagens infra:
 
 <img width="607" height="672" alt="image" src="https://github.com/user-attachments/assets/39a0e7f9-43f5-494f-a32d-af6ca990aa39" />
 
