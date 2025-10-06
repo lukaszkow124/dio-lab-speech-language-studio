@@ -17,7 +17,7 @@ Aceder ao opção assinalada na imagem abaixo:
 
 <img width="1596" height="778" alt="image" src="https://github.com/user-attachments/assets/e957deec-fe9f-4eef-b54c-f5a9a8c5100e" />
 
-Seleccionar lingua (pt-PT) e carregar o seu proprio texto para analise (ficheiro na pasta audio). 
+Seleccionar lingua (pt-PT) e carregar o seu proprio texto para analise (ficheiro "TextoVoz.wav" na pasta audio). 
 
 Resultado conforme esperado, embora com ligeiros desvios nas palavras mais complexas:
 
