@@ -17,21 +17,30 @@ Aceder ao opção assinalada na imagem abaixo:
 
 <img width="1596" height="778" alt="image" src="https://github.com/user-attachments/assets/e957deec-fe9f-4eef-b54c-f5a9a8c5100e" />
 
+Seleccionar lingua (pt-PT) e carregar o seu proprio texto para analise (ficheiro na pasta audio). 
 
-Carregar o seu proprio texto para analise (ficheiro na pasta audio)
+Resultado conforme esperado, embora com ligeiros desvios nas palavras mais complexas:
 
-Resultado conforme esperado:
+<img width="1626" height="933" alt="image" src="https://github.com/user-attachments/assets/b5c0ce1d-88b0-4f28-922c-795d852e2f48" />
 
+Texto do audio original:
+
+> A perseguição ao Goeben e Breslau foi uma ação naval ocorrida no início da Primeira Guerra Mundial entre forças do Reino Unido sob o comando do almirante sir Berkeley Milne contra aquelas da Alemanha sob o comando do vice-almirante Wilhelm Souchon. Ela ocorreu entre os dias 4 e 10 de agosto de 1914 no Mar Mediterrâneo e Mar Egeu quando elementos da Frota do Mediterrâneo britânica tentaram interceptar as duas embarcações da Divisão do Mediterrâneo alemã.
+
+Texto detetado:
+
+> A perseguição ao Goben e brylao foi uma ação naval ocorrida no início da Primeira Guerra Mundial entre forças do Reino Unido, sob o comando do almirante Sir Berkeley Millm contra aquelas da Alemanha, sob o comando do Vice Almirante o Aleluia. Ela ocorreu entre os dias 4 e 10/08/1914 no Mar Mediterrâneo e Mar Egeu quando elementos da frota do Mediterrâneo britânica tentaram intercetar as 2 embarcações da divisão do Mediterrâneo alemã. 
 
 ### Aplicação (next steps)
 
 O portal disponibiliza zona que explica como usar o serviço em aplicações, fornecendo exemplos, a documentação e informação sobre custos:
 
+<img width="1267" height="602" alt="image" src="https://github.com/user-attachments/assets/34959da2-7a3a-438c-9087-5f7b3b178eb7" />
 
 
 ## Resumo do Speech Studio
 
-Além dos exemplos há outras modalidades interessantes. Não esquecer do possível custo associado ao utilização!
+Além dos exemplos há outras modalidades interessantes. Não esquecer do possível custo associado ao utilização e possiveis falhas na detetação (nas palavras menos comuns/nomes proprios etc.).
 
 
 # Language Studio
